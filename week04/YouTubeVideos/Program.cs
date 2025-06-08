@@ -40,7 +40,7 @@ class Program
                 Console.WriteLine($" - {comment.Name}: {comment.Text}");
             }
 
-            Console.WriteLine(); // Blank line between the videos
+            Console.WriteLine(); // Blank lines between the videos
         }
     }
 }
